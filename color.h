@@ -1,0 +1,7 @@
+#include <iostream>
+
+enum class Colors {
+    black = 0,
+    lightBlue = 3,
+    white = 15
+};
